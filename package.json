@@ -19,11 +19,13 @@
     "tools"
   ],
   "dependencies": {
-    "colors": "~0.6.2",
     "cliff": "~0.1.9",
+    "colors": "~0.6.2",
+    "express": "^4.12.4",
     "flatiron": "~0.4.2",
     "forever-monitor": "~1.5.1",
     "nconf": "~0.6.9",
+    "nodemailer": "^1.3.4",
     "nssocket": "~0.5.1",
     "optimist": "~0.6.0",
     "timespan": "~2.3.0",
